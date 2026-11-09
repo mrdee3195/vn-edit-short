@@ -1,0 +1,6 @@
+[
+  {"name": "wood_knock", "file": "thuanphat_go_van_01.wav", "hit": 0.012, "gain_db": -6,
+   "category": "brand", "use": "khung hình 0, chữ đập", "license": "tự thu tại kho Thuận Phát"},
+  {"name": "saw_riser", "file": "thuanphat_cua_van_01.wav", "hit": 1.20, "gain_db": -9,
+   "category": "brand", "use": "riser tự nhiên dẫn vào drop (đỉnh = điểm cắt)", "license": "tự thu tại xưởng"}
+]
